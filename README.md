@@ -1,2 +1,3 @@
-# gitPractice
-Learning Github
+#Git Practice 
+
+Learning to use Git 
